@@ -1,0 +1,11 @@
+transformers
+openai
+chromadb
+langchain
+langchain-community
+langchain_openai
+pdfminer.six
+InstructorEmbedding
+sentence_transformers
+auto-gptq
+optimum
